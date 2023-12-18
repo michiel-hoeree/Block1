@@ -1,0 +1,18 @@
+Welke leerstof was nieuw voor mij?
+Er was niet echt nieuwe leerstof voor mij.
+Ik heb in mijn vrije tijd al veel geexperimenteerd met api's en kon dus al wel wat herkennen.
+Ik had tot hier toe echter nog niet gewerkt met de gitlab api dus dat was even wennen.
+
+
+Hoe moeilijk waren de oefeningen en het project?
+De oefeneningen waren niet zo moeilijk.
+Enkel het parsen van een csv file was iets dat ik tot hier toe nog niet heb moeten doen.
+
+
+Welke misverstanden ben ik begaan en wat heb ik hier uit geleerd?
+De gitlab api begreep ik eerst niet goed maar de documentatie hielp zeer goed
+
+
+
+In wat voor andere projecten zouden deze technieken van pas kunnen komen?
+Elk project waarin ik moet werken met api's en ik bepaalde filesoorten moet verwerken kan deze ervaring van toepassing komen.
